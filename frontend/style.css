@@ -759,10 +759,15 @@ span {
     transition: all 0.3s ease;
 }
 
+.button a {
+    text-decoration: none;
+    color: white;
+}
+
 .button:hover{
-    background: #Fe676a;
+    background: #00aa9f;
     font-weight: 600;
-    color: #FFc300;
+    
 }
 
 .swiper-navBtn {
