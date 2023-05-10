@@ -95,7 +95,7 @@ nav {
   }
   .menu-wrapper a:hover {
     border-bottom: 1px solid rgba(255, 255, 255, 0.9);
-    color: red;
+    color: #ffc300;
     font-size: 1em;
   }
   .menu-wrapper .menu > .current-menu-item > a,
@@ -166,7 +166,7 @@ nav {
     border: none;
   }
   .menu-wrapper .sub-menu a:hover {
-    background: #ffc300;
+    background: #2cb484;
   }
   .menu-wrapper .sub-menu li:last-child {
     padding-bottom: 0.26em;
